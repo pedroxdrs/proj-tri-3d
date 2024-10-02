@@ -13,14 +13,14 @@ body{background-color: crimson;
            border-color: hotpink;
          border-width: 7px;}
 
-         p3 {text-align:start
+         .p3 {text-align:start
             ;}
       
             .p3{border-style: outset;
                  border-color:gold;
                border-width: 8px;}
 
-               p4 {text-align:initial
+               .p4 {text-align:initial
                   ;}
             
                   .p4{border-style: outset;
