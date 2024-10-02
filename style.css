@@ -5,3 +5,24 @@ body{background-color: crimson;
 .p1{border-style: outset;
    border-color: cyan;
    border-width: 5px;}
+
+   .p2 {text-align: center
+      ;}
+
+      .p2{border-style: outset;
+           border-color: hotpink;
+         border-width: 7px;}
+
+         p3 {text-align:start
+            ;}
+      
+            .p3{border-style: outset;
+                 border-color:gold;
+               border-width: 8px;}
+
+               p4 {text-align:initial
+                  ;}
+            
+                  .p4{border-style: outset;
+                       border-color: hotpink;
+                     border-width: 7px;}
